@@ -98,7 +98,11 @@ function App() {
 
       <h2 className="text-[20px] font-light z-10 text-center">
         Desenvolvedor Front End | Desenvolvedor Full Stack na{' '}
-        <a href="https://cobogo.io/" target="_blank" className="text-cobogo">
+        <a
+          href="https://cobogo.io/"
+          target="_blank"
+          className="text-cobogo font-bold"
+        >
           Cobogo.
         </a>
       </h2>
