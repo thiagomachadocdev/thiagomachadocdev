@@ -24,22 +24,6 @@ function Footer() {
       >
         LinkedIn
       </a>
-
-      <a
-        href="https://www.twitch.tv/thiagomachadocdev/"
-        target="_blank"
-        className="text-gray-100"
-      >
-        Twitch
-      </a>
-
-      <a
-        href="https://www.youtube.com/@thiagomachadocdev/"
-        target="_blank"
-        className="text-gray-100"
-      >
-        YouTube
-      </a>
     </div>
   )
 }
